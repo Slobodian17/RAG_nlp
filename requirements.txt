@@ -1,0 +1,12 @@
+PyMuPDF
+sentence-transformers
+faiss-cpu
+numpy
+rank_bm25
+litellm
+langchain
+gradio
+FlagEmbedding
+nltk
+pandas
+scikit-learn
